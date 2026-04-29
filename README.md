@@ -1,4 +1,4 @@
-# 💫 About Me:
+# M. Taha Yasin:
 Hi, I'm Muhammad Taha Yasin 👋<br>I'm a Computer Science student passionate about building meaningful web applications. Currently focused on mastering the MERN stack and expanding into Next.js, TypeScript, and PostgreSQL.<br>
 
 ## 🌐 Socials:
