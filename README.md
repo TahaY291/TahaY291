@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, I'm Muhammad Taha Yasin 👋<br>I'm a Computer Science student passionate about building meaningful web applications. Currently focused on mastering the MERN stack and expanding into Next.js, TypeScript, and PostgreSQL.<br>I believe in learning by doing — which is why I'm building a full Smart Telemedicine & Appointment Management System as my Final Year Project.<br>My long-term goal? Become a well-rounded developer with expertise in backend engineering (Go), DevOps (Docker, CI/CD), and AI-integrated applications.<br>🚀 Currently Working On<br><br>Smart Telemedicine & Appointment Management System (Final Year Project)<br>A platform connecting patients with doctors for virtual consultations, smart appointment scheduling, and health record management.<br><br>Stack: Next.js · Node.js · MongoDB · REST APIs<br><br>🎯 Goals for 2025<br><br> Build a full-stack FYP project from scratch<br> Land my first internship or junior developer role<br> Get comfortable with TypeScript & PostgreSQL<br> Containerize apps with Docker<br> Build a project using Go for backend<br> Integrate an AI feature into a real application
-
+Hi, I'm Muhammad Taha Yasin 👋<br>I'm a Computer Science student passionate about building meaningful web applications. Currently focused on mastering the MERN stack and expanding into Next.js, TypeScript, and PostgreSQL.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mtahayasin) 
